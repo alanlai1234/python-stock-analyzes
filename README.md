@@ -1,2 +1,2 @@
 # python-stock-analyzes
-scarping from moneydj.com datas
+scarping from moneydj.com datas using pandas and matplotlib
